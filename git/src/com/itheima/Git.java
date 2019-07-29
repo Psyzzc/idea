@@ -9,4 +9,9 @@ public class Git {
         System.out.println("11111111111111111");
         System.out.println("11111111111111111");
     }
+
+    public void add(){
+        int i = 1;
+        i++;
+    }
 }
